@@ -1,0 +1,81 @@
+null
+Grid de Largada 
+Primeira Fila 
+ 038   -   F.Massa 
+                    033   -   R.Barrichello 
+Segunda Fila 
+ 002   -   K.Raikkonen 
+                    023   -   M.Webber 
+Terceira Fila 
+ 015   -   F.Alonso 
+                    011   -   S.Vettel 
+
+
+Volta de Apresentação
+
+
+Carros em Posição no Grid
+
+
+   Bandeira Verde
+
+
+      Luz Verde
+
+
+         Go...Go....Go....
+
+
+Running...pilotos na primeira volta
+
+Posiçoes ao final da volta 1
+
+-----Posiçoes-----
+ F.MASSA
+R.BARRICHELLO
+K.RAIKKONEN
+M.WEBBER
+F.ALONSO
+S.VETTEL
+
+
+Running...pilotos na segunda volta
+
+Posiçoes ao final da volta 2
+
+-----Posiçoes-----
+ F.MASSA
+R.BARRICHELLO
+K.RAIKKONEN
+M.WEBBER
+F.ALONSO
+S.VETTEL
+
+
+Running...pilotos na terceira volta
+
+Posiçoes ao final da volta 3
+
+-----Posiçoes-----
+ F.MASSA
+R.BARRICHELLO
+K.RAIKKONEN
+M.WEBBER
+F.ALONSO
+S.VETTEL
+
+
+Running...pilotos na quarta e última volta
+
+Posiçoes ao final da volta 4
+
+-----Posiçoes-----
+ F.MASSA
+K.RAIKKONEN
+R.BARRICHELLO
+M.WEBBER
+F.ALONSO
+
+
+   Menor tempo de volta 
+3     F.MASSA     1:02.769
